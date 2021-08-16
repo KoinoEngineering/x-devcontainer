@@ -8,3 +8,5 @@ RUN apt install -y x11-apps
 RUN apt install -y emacs
 
 CMD ["xeyes", "&"]
+
+WORKDIR /workspace

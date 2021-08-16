@@ -22,8 +22,6 @@
     "extensions": [
         "ms-ceintl.vscode-language-pack-ja",
         "coenraads.bracket-pair-colorizer",
-        "dbaeumer.vscode-eslint",
-        "octref.vetur",
         "eamodio.gitlens",
         "mhutchie.git-graph"
     ]
